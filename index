@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("https://united71.files.wordpress.com/2023/01/e688aae5b18f2023-01-17-e4b88be58d887.29.02.png");
+  background-size: 1000px 600px;
+  margin-left: 7em;
+  margin-right: 7em;
+}
+
+</style>
+<style>
+div.a {
+  float: right;
+  text-align: center;
+}
+div.b {
+  text-indent: 9em;
+  font-size: 1.2em;
+}
+</style>
+<style>
+h1 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 1.7em;
+ }
+
+p {
+  font-size: 1.2em;
+  margin-right: 0.1em;
+}
+</style>
+
+<title>Cheeger-Colding-Naber</title>
+</head>
+<body>
+
+
+<div class="a">
+<img src="" height="264px">
+<figcaption style="text-align:right;"> </figcaption>
+</div>
+
+<h1>Cheeger-Colding-Naber</h1>
+<hr style="width:30%;text-align:left;margin-left:0">
+
+<p>This is the webpage for the Cheeger-Colding-Naber seminar taking place at UC Berkeley in Fall 2024.</p>
+
+<h3>Meeting time and location</h3>
+<p> Thursday 5-8pm at Evans 891
+</p>
+
+<hr style="width:30%;text-align:left;margin-left:0">
+  
+  
+<h3>References</h3>
+
+<p>[B] Richard Bamler, Cheeger-Colding-Naber Theory.<br>
+
+<p> [C] Jeff Cheeger, Degenerations of Riemannian metrics under Ricci curvature bounds.<br>
+
+<p> [CN] Jeff Cheeger, Aaron Naber, Regularity of Einstein Manifolds and the Codimension 4 Conjecture.<br>
+
+<p> [JG] Jeff Cheeger, Gang Tian, Anti-Self-Duality of Curvature and Degeneration of Metrics with Special Holonomy.<br>
+
+<p> [JN] Wenshuai Jiang, Aaron Naber, L2 Curvature Bounds on Manifolds with Bounded Ricci Curvature.<br>
+ 
+<p> [X] Xiaochun Rong, Notes on manifolds of Ricci curvature bounded below.<br>
+  
+<hr style="width:30%;text-align:left;margin-left:0">
+
+
+<h3>Schedule</h3>
+<p>
+<p>[P]  Week Sep 5. <br>
+<p>[P]  Week Sep 12. <br>
+<p>[P]  Week Sep 19. <br>
+<p>[P]  Week Sep 26.<br>
+<p>[P]  Week Oct 3. <br>
+<p>[P]  Week Oct 10. <br>  
+<p>[P]  Week Oct 17.<br>  
+<p>[P]  Week Oct 24. <br>  
+</p>
+
+  
+
+
+</body>
+</html>
